@@ -5,7 +5,7 @@
   "version": "10",
   "minimumCoreVersion": "10",
   "author": "Kazgul1987",
-  "manifest": "URL zur Manifestdatei des Moduls",
+  "manifest": "https://github.com/Kazgul1987/poison-weapons-module/blob/main/manifest.json",
   "scripts": [
     "script.js"
   ]
