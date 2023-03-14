@@ -1,0 +1,12 @@
+{
+  "name": "poison-weapons",
+  "title": "poison-weapons",
+  "description": "A module to apply poisons to a weapon in Pathfinder 2e",
+  "version": "10",
+  "minimumCoreVersion": "10",
+  "author": "Kazgul1987",
+  "manifest": "URL zur Manifestdatei des Moduls",
+  "scripts": [
+    "script.js"
+  ]
+}
