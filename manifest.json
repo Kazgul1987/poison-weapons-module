@@ -1,0 +1,13 @@
+{
+  "name": "poison-weapons",
+  "title": "poison-weapons",
+  "description": "Ein Modul, mit dem Charaktere Gifte auf ihre Waffen auftragen können",
+  "version": "1.0.0",
+  "minimumCoreVersion": "10",
+  "author": "Kazgul 1987",
+  "url": "https://ihre-website.com",
+  "license": "MIT",
+  "dependencies": {
+    "pathfinder2e": ">=0.8.8"
+  }
+}
