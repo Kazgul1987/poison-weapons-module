@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "minimumCoreVersion": "10",
   "author": "Kazgul 1987",
-  "url": "https://ihre-website.com",
+  "url": "https://github.com/Kazgul1987/poison-weapons-module/blob/main/module.json",
   "license": "MIT",
   "dependencies": {
     "pathfinder2e": ">=0.8.8"
